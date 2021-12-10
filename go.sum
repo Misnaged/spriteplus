@@ -1,3 +1,5 @@
+github.com/cebarks/spriteplus v0.5.2 h1:U0p4nMSu6PgrTwwosCxBNsRiyt8JF89T1BuqqGYLAMM=
+github.com/cebarks/spriteplus v0.5.2/go.mod h1:wiNTzbslEcosJLxuwl0rvsRG2L8lFrLqd7RXSi8sSPw=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dusk125/pixelutils v0.0.0-20210328030132-9e4d5f56d9f6 h1:d9EllI5Leh5vaM+TGtGy/2g5A3QOaI06I6O29yDg+gU=
@@ -26,7 +28,6 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/pzsz/voronoi v0.0.0-20130609164533-4314be88c79f h1:YeUeWAPTrycaikVXiVoAu1dxIR4+tSsn9IbTkNfRsss=
 github.com/pzsz/voronoi v0.0.0-20130609164533-4314be88c79f/go.mod h1:T6EcHUIQ7r0Xr1jjOJ7hmpUaqVyqb9WimeNzS9nz4Zo=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
-github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=

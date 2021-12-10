@@ -1,6 +1,6 @@
-module github.com/cebarks/spriteplus
+module github.com/Misnaged/spriteplus
 
-go 1.16
+go 1.17
 
 require (
 	github.com/dusk125/pixelutils v0.0.0-20210328030132-9e4d5f56d9f6
