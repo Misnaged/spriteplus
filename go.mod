@@ -1,4 +1,4 @@
-module github.com/Misnaged/spriteplus
+module github.com/misnaged/spriteplus
 
 go 1.17
 
